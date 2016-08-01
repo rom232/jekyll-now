@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+09/10/1979
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+PHP
+JavaScript
+CSS
+Visual Basic
+...
 
 ### Contact me
-
-[email@domain.com](mailto:email@domain.com)
++55 61 98240.5946
+[rom232@gmail.com](mailto:rom232@gmail.com)
